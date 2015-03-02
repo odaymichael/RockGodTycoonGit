@@ -6,13 +6,11 @@ Direct3D:
     Vendor:   ATI
     VRAM:     2027 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\odaym_000\Documents\Rock God Tycoon\FirstBuild_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\odaym_000\Documents\Rock God Tycoon\FirstBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\odaym_000\Documents\Rock God Tycoon\FirstBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\odaym_000\Documents\Rock God Tycoon\FirstBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\odaym_000\Documents\RockGodTycoonGit\FirstBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\odaym_000\Documents\RockGodTycoonGit\FirstBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\odaym_000\Documents\RockGodTycoonGit\FirstBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\odaym_000\Documents\RockGodTycoonGit\FirstBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
 desktop: 1920x1080 60Hz; virtual: 3360x1080 at -1440,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\odaym_000\Documents\Rock God Tycoon\FirstBuild_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\odaym_000\Documents\Rock God Tycoon\FirstBuild_Data\Managed\System.dll (this message is harmless)
